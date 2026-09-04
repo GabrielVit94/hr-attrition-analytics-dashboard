@@ -1,0 +1,15 @@
+# HR Analytics - Employee Attrition Analysis
+
+# Python dependencies required to reproduce the analytical components
+
+# used in the Power BI dashboard.
+
+# Data manipulation and numerical operations
+pandas == 3.0.5
+numpy == 2.5.2
+
+# Data visualization
+matplotlib == 3.11.1
+
+# Machine learning - Random Forest feature importance analysis
+scikit-learn == 1.9.0
