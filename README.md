@@ -7,8 +7,11 @@ Power BI · DAX · Python · Scikit-learn · HR Analytics
 
 
 <p align="center">
-  <img src="Screenshots/dashboard-demo.gif" alt="HR Analytics Power BI Dashboard Demo" width="900">
+
+&#x20; <img src="Screenshots/dashboard-demo.gif" alt="HR Analytics Power BI Dashboard Demo" width="900">
+
 </p>
+
 
 
 
